@@ -1,0 +1,42 @@
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q1 {
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q2 {
+    font-family: 'Sawarabi Mincho', serif; 
+
+}
+.q2-a {
+    display: flex;
+    justify-content: center;
+   
+}
+.q2-a label{
+  margin: 0px 20px 0px 3px;
+}
+.q3{
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q4{
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q5{
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q6{
+    font-family: 'Sawarabi Mincho', serif;
+}
+.q7{
+    font-family: 'Sawarabi Mincho', serif;
+}
+button {
+    font-family: 'Sawarabi Mincho', serif;
+    margin: 20px 0 0	;
+}
+.q8{
+    font-family: 'Sawarabi Mincho', serif;
+}
